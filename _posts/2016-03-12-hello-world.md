@@ -3,24 +3,25 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'hello, world!'
-datePublished: '2016-03-12T19:29:18.568Z'
-dateModified: '2016-03-12T19:28:57.608Z'
+datePublished: '2016-03-12T19:41:45.536Z'
+dateModified: '2016-03-12T19:41:32.665Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-hello-world.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-hello-world.md
-published: true
 url: hello-world/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42f8c693-94b6-4868-9749-2f0eddb7ab49.jpg)
+
 hello, world!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab8a82f2-2de7-402c-87e6-5ff9f6344ef6.jpg)
