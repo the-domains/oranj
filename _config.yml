@@ -1,0 +1,28 @@
+name: Ō/RÁNJ
+favicon: null
+layout_spectrum: 0.5490973580162972
+typography_spectrum: 0.2347884471528232
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.36044745123945177
+  lightness: 0.8539631459861994
+  saturation: 0.9642361069563776
+  rhythmicContrast: 0.36310403468087316
+purpose: []
