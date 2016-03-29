@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 0
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Ō/RÁNJ
 favicon: null
+name: Ō/RÁNJ
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.9328679
+typography_spectrum: 0.3546366
 layout_spectrum: 0.85587
